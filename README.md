@@ -1,3 +1,5 @@
+ ## **<strong>만나서 빈갑습니다. 잘부탁드립니다.</strong>**
+
 ## 🛠️ 주요 기술 스택
 <br>
 
@@ -24,3 +26,10 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
   </div>
 <br>
+
+
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjulking&layout=compact&theme=dark" />
+  </a>
+</div>
