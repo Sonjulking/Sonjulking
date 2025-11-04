@@ -33,3 +33,6 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonjulking&layout=compact&theme=dark" />
   </a>
 </div>
+
+https://github.com/Sonjulking/discord_bot_public
+
