@@ -34,5 +34,3 @@
   </a>
 </div>
 
-https://github.com/Sonjulking/discord_bot_public
-
